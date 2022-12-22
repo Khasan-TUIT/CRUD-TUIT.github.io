@@ -1,6 +1,6 @@
 # CRUD Sample: PHP, Bootstrap and MySQL
 
-## Laboratory №3, for TUIT
+## CRUD Example, for TUIT
 ## Technologies & tools
 
 - PHP,
